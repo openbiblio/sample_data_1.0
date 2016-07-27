@@ -11,7 +11,7 @@ INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfi
 INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 860204, 1787554, 1, 'b', 'rk11 2014-03-20');
 INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 860204, 9647812, 1, 'i', 'rk11 2014-03-21 to Dewey');
 INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 860204, 4826467, 1, 'w', 'xl04 2014-03-25');
-INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 860204, 1364977, 1, 'a', 'xn12 2014-11-17 1 copy rec'd., to CIP ver.');
+INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 860204, 1364977, 1, 'a', 'xn12 2014-11-17 1 copy rec''d., to CIP ver.');
 INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 860204, 6316005, 1, 'f', 'rk11 2014-11-20 to');
 INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 197845, 8673216, 1, 'a', '  2014007749');
 INSERT INTO biblio_subfield (bibid, fieldid, subfieldid, seq, subfield_cd, subfield_data) VALUES (9102, 293293, 9161143, 1, 'a', '9780816530038 (pbk. : alk. paper)');
